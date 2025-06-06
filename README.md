@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @EmilieVS.
-- 👀 I’m interested in web and mobile development. I would love to do gaming too at some point but for now I want to focus on web and mobile.
-- 💞️ I’m looking to collaborate on any interesting project that fit with my learning goal. 
-- 🌱 I’m currently learning so many things ! I know Javascript, Python and I just started Java and React (on my own). I also know a bit of ThreeJS and Globe JS.
+- 👋 Hello, my name is Emilie.
+  
+- 👩‍💻 I'm a junior fullstack developper (mainly interested in backend to be honest) but I can handle the front just fine. I'm currently on training at Ada Tech School.
+- 👀 I’m interested in working in web or mobile development. I would love to do gaming too at some point but I don't think of it for now.
+- 💞️ My backend languages are Python and Java.
+I started programming in Python on my own about a year ago(on Udemy) but I had the opportunity to learn Java recently and I loved it ! 
+- 🌱 I will soon learn some frameworks. I'm mainly interested in React.
+I've already used SpringBoot, I also know a bit of ThreeJS and Globe JS.
+  
 - 📫 How to reach me ? Mainly on : https://www.linkedin.com/in/emilie-vincent-sully/ 
-- ⚡ Fun fact : this is actuallly my second (career) life ! A few months ago, I was doing something completely different for a living. 
+- ⚡ Fun fact : I'm a Crossfitter ! 
 
 
 
